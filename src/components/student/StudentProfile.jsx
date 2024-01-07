@@ -39,7 +39,7 @@ const StudentProfile = () => {
             {email} <br />
             {department}
           </p>
-          <Link to={"/view-students"} className="btn btn-primary">
+          <Link to={"/view-students"} className="btn btn-outline-primary">
             Back
           </Link>
         </div>
