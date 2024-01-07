@@ -28,7 +28,7 @@ const StudentProfile = () => {
       <div className="card custom-card text-center mb-3 shadow">
         <img
           src="https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png"
-          className="card-img-top"
+          className="rounded-circle img-fluid"
           alt={firstName}
         />
         <div className="card-body">
