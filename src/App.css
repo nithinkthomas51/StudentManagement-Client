@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.custom-card {
+  width: 18rem;
+}
+
+.centered-section {
+  background-color: whitesmoke;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
